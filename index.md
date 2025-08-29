@@ -15,8 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+#  Alisha's First CS193 Homework
 - Bulleted
 - List
+- we meet only once a week!
+- the TA's are super nice and friendly
+- decent work load!!
 
 1. Numbered
 2. List
