@@ -27,6 +27,9 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is an <ins>underlined</ins> text
+Alisha Kumar is so so sooooo <ins>SILLY GOOFY AMAZINGGG</ins>
+`rgb(9, 105, 218)`
 
 ### Jekyll Themes
 
